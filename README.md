@@ -140,6 +140,12 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - You Have to Download Termux App.
   [Click Here](https://play.google.com/store/apps/details?id=com.termux) To
   Download it.
+And type this comand >pip install pyngrok & pgrep
+
+
+
+
+
 - For Further instruction
   [Check Instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 - Termux Users Clone With This Command , Unless Errors may occur during Running.
